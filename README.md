@@ -25,7 +25,7 @@ Cada aula fica em uma **branch própria**. A `main` só concentra este índice.
 | [`Aula-03`](https://github.com/GP16-2CCR/cross-plataform/tree/Aula-03) | 03 | Abrindo o capô do Flutter | Leitura da base: fluxo, widgets, models e styles |
 | [`Aula-04`](https://github.com/GP16-2CCR/cross-plataform/tree/Aula-04) | 04 | Implementação do card e estados | Criação do card de consulta com os botões confirmar e cancelar |
 | [`Aula-05`](https://github.com/GP16-2CCR/cross-plataform/tree/Aula-05) | 05 | Persistência dos dados com shared_preferences | uso do LocalStorage do navegador para persistir os dados |
-| [`Aula-06`](https://github.com/GP16-2CCR/cross-plataform/tree/Aula-06) | 05 | Arrays no storage, Service Layer e navegação | criação da tela Admin |
+| [`Aula-06`](https://github.com/GP16-2CCR/cross-plataform/tree/Aula-06) | 06 | Arrays no storage, Service Layer e navegação | criação da tela Admin |
 
 ## Como navegar
 
